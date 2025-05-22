@@ -10,7 +10,7 @@ const PORT = 3000;
 // Define a GET endpoint
 app.get("/", (req, res) => {
   // Send a response with text and emoji when the endpoint is accessed
-  res.send("Cloudcamp API V3 🚀");
+  res.send("Cloudcamp API V4 DevOps 2025-1 🚀");
 });
 
 // Start the server and listen on the specified port
